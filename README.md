@@ -9,10 +9,10 @@ I enjoy building applications that are intuitive and reliable. I’m particularl
 I’m motivated by continuous learning and improvement, and I enjoy collaborating with others, receiving feedback, and refining my work. I’m currently focused on strengthening my Frontend and Backend skills while building projects to strengthen my portfolio.
 
 ## 👨‍💻 What I’m working on
-- Improving my Frontend and Backend skills everyday
+- Improving my Frontend and Backend skills regularly
 - Building small full stack projects to strengthen my portfolio
-- Learning best practices for clean, maintainable code
-- 
+- Learning best practices for clean and maintainable code
+- making sure i am growing as a developer everyday
 
 ## 💡 What motivates me
 - Solving problems
